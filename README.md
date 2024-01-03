@@ -1,6 +1,6 @@
-#python-project-dictionary
+# python-project-dictionary
 파이썬+영어공부게임
 
 
-##프로젝트 소개
+## 프로젝트 소개
 2021 학교 팀 프로젝트로 진행한 영어 공부를 위한 학습도구를 개발하였습니다. 
